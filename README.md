@@ -1,2 +1,4 @@
 # example repository
-This is sample repo --  Hello world!# example-repo
+This is sample repo --  Hello coders!
+
+this is second  change.
